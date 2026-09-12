@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score,AUC-ROC
+Logistic Regression,-0.001,0.0764,-0.0931,-0.007,0.0021
+SVM,-0.0145,0.0259,-0.0489,-0.0112,-0.0019
+Bidirectional LSTM,-0.0055,0.0142,-0.023,-0.005,0.0016
+DistilBERT (Transformer),-0.001,0.0078,-0.0097,-0.001,0.0004
