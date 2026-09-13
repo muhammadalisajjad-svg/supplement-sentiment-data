@@ -1,0 +1,6 @@
+Aspect,Coefficient (log-odds),Odds Ratio,p-value,CI 2.5%,CI 97.5%
+mentions_Taste,-0.0847,0.9188,0.1276,0.8239,1.0246
+mentions_Price,-0.1248,0.8827,0.0766,0.7688,1.0134
+mentions_Effectiveness,0.7229,2.0604,0.0,1.7256,2.4601
+mentions_Digestion,-0.2668,0.7658,0.0231,0.6084,0.964
+mentions_Mixability,0.3759,1.4563,0.0,1.2767,1.6611
